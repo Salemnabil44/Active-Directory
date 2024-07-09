@@ -35,6 +35,7 @@ Choisir un mot de passe robuste puis redémarrer Windows Server 2022
 
 ## Étape 7 : 
 Une fois redémarrer, normalement le nom de l'adminstrateur a changé, vous pouvez vérifier que le domaine a été correctement créé dans l'onglet "serveur local"
+
 <img width="758" alt="Capture d’écran 2024-07-09 à 11 04 19" src="https://github.com/Salemnabil44/Active-Directory/assets/161028838/aea74cab-edab-4516-ac6e-edc3fe831256">
 
 <img width="1005" alt="Capture d’écran 2024-07-09 à 11 06 08" src="https://github.com/Salemnabil44/Active-Directory/assets/161028838/6e8fd1b5-81b3-454b-a75d-e80dc55a9328">
