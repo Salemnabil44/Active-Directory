@@ -6,6 +6,7 @@ Lancer Active Directory puis cliquez sur "outil" > "Gestion des stratégies de g
 
 <img width="1004" alt="Capture d’écran 2024-07-14 à 18 24 21" src="https://github.com/user-attachments/assets/08f48b57-172a-4c8c-837f-3f6234ad1ab2">
 
+
 <img width="1005" alt="Capture d’écran 2024-07-14 à 18 24 32" src="https://github.com/user-attachments/assets/bd3b475a-6eb3-4763-aa25-6c90f56381ab">
 
 ## Étape 2
