@@ -37,6 +37,25 @@ Pour vérifier que la configuration est bien mise en place, cliquez sur la GPO e
 
 <img width="1004" alt="Capture d’écran 2024-07-14 à 19 13 11" src="https://github.com/user-attachments/assets/fcedd2d2-d865-48a8-bfe5-5f67327c7adb">
 
+## Étape 5
+
+Retournez à la console de gestion des stratégies de groupe.
+Faites un clic droit sur la GPO "Wilders" et sélectionnez "Modifier".
+Dans le panneau de droite, cliquez sur l'onglet "Délégation" puis Cliquez sur "Ajouter" et ajoutez le groupe ou l'utilisateur que vous souhaitez restreindre.
+
+<img width="782" alt="Capture d’écran 2024-07-14 à 21 11 25" src="https://github.com/user-attachments/assets/8dbd12d0-9ecd-4ff2-871b-3d1f873660c4">
+
+<img width="781" alt="Capture d’écran 2024-07-14 à 21 11 53" src="https://github.com/user-attachments/assets/df5ff79e-8cf4-42d1-aeb9-dcfbff8d8043">
+
+<img width="782" alt="Capture d’écran 2024-07-14 à 21 12 23" src="https://github.com/user-attachments/assets/0ea944b7-5bc0-44c1-bba1-7685d26735fa">
+
+## Étape 6 : Vérification de la configuration
+
+Connectez vous avec un compte appartenant au groupe "Wilders_Students". Essayez d'ouvrir le panneau de configuration via le menu démarrer ou la boîte de dialogue "Exécuter". Vous devriez recevoir un message indiquant que l'accès est interdit, ce qui confirme que la GPO est correctement appliquée.
+
+
+
+
 
 
 
